@@ -1,0 +1,711 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="gbDeterminadoKg.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="txtVentaDeterminado.Location" type="System.Drawing.Point, System.Drawing">
+    <value>274, 47</value>
+  </data>
+  <data name="txtVentaDeterminado.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="txtVentaDeterminado.MaxLength" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="txtVentaDeterminado.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 27</value>
+  </data>
+  <data name="txtVentaDeterminado.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="txtVentaDeterminado.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtVentaDeterminado.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtVentaDeterminado.Name" xml:space="preserve">
+    <value>txtVentaDeterminado</value>
+  </data>
+  <data name="&gt;&gt;txtVentaDeterminado.Type" xml:space="preserve">
+    <value>ControlesMS.msTextBoxNumerico, ControlesMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtVentaDeterminado.Parent" xml:space="preserve">
+    <value>gbDeterminadoKg</value>
+  </data>
+  <data name="&gt;&gt;txtVentaDeterminado.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtCostoDeterminado.Location" type="System.Drawing.Point, System.Drawing">
+    <value>159, 47</value>
+  </data>
+  <data name="txtCostoDeterminado.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="txtCostoDeterminado.MaxLength" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="txtCostoDeterminado.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 27</value>
+  </data>
+  <data name="txtCostoDeterminado.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="txtCostoDeterminado.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtCostoDeterminado.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtCostoDeterminado.Name" xml:space="preserve">
+    <value>txtCostoDeterminado</value>
+  </data>
+  <data name="&gt;&gt;txtCostoDeterminado.Type" xml:space="preserve">
+    <value>ControlesMS.msTextBoxNumerico, ControlesMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtCostoDeterminado.Parent" xml:space="preserve">
+    <value>gbDeterminadoKg</value>
+  </data>
+  <data name="&gt;&gt;txtCostoDeterminado.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtKgDeterminado.Location" type="System.Drawing.Point, System.Drawing">
+    <value>37, 47</value>
+  </data>
+  <data name="txtKgDeterminado.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="txtKgDeterminado.MaxLength" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="txtKgDeterminado.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 27</value>
+  </data>
+  <data name="txtKgDeterminado.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="txtKgDeterminado.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtKgDeterminado.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtKgDeterminado.Name" xml:space="preserve">
+    <value>txtKgDeterminado</value>
+  </data>
+  <data name="&gt;&gt;txtKgDeterminado.Type" xml:space="preserve">
+    <value>ControlesMS.msTextBoxNumerico, ControlesMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtKgDeterminado.Parent" xml:space="preserve">
+    <value>gbDeterminadoKg</value>
+  </data>
+  <data name="&gt;&gt;txtKgDeterminado.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblDeterminadoVenta.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDeterminadoVenta.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDeterminadoVenta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>270, 24</value>
+  </data>
+  <data name="lblDeterminadoVenta.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblDeterminadoVenta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 19</value>
+  </data>
+  <data name="lblDeterminadoVenta.TabIndex" type="System.Int32, mscorlib">
+    <value>63</value>
+  </data>
+  <data name="lblDeterminadoVenta.Text" xml:space="preserve">
+    <value>Venta</value>
+  </data>
+  <data name="lblDeterminadoVenta.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;lblDeterminadoVenta.Name" xml:space="preserve">
+    <value>lblDeterminadoVenta</value>
+  </data>
+  <data name="&gt;&gt;lblDeterminadoVenta.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDeterminadoVenta.Parent" xml:space="preserve">
+    <value>gbDeterminadoKg</value>
+  </data>
+  <data name="&gt;&gt;lblDeterminadoVenta.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblDeterminadoCosto.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDeterminadoCosto.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDeterminadoCosto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 24</value>
+  </data>
+  <data name="lblDeterminadoCosto.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblDeterminadoCosto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 19</value>
+  </data>
+  <data name="lblDeterminadoCosto.TabIndex" type="System.Int32, mscorlib">
+    <value>61</value>
+  </data>
+  <data name="lblDeterminadoCosto.Text" xml:space="preserve">
+    <value>Costo</value>
+  </data>
+  <data name="lblDeterminadoCosto.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;lblDeterminadoCosto.Name" xml:space="preserve">
+    <value>lblDeterminadoCosto</value>
+  </data>
+  <data name="&gt;&gt;lblDeterminadoCosto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDeterminadoCosto.Parent" xml:space="preserve">
+    <value>gbDeterminadoKg</value>
+  </data>
+  <data name="&gt;&gt;lblDeterminadoCosto.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lblTituloKilos.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblTituloKilos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTituloKilos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 24</value>
+  </data>
+  <data name="lblTituloKilos.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblTituloKilos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 19</value>
+  </data>
+  <data name="lblTituloKilos.TabIndex" type="System.Int32, mscorlib">
+    <value>59</value>
+  </data>
+  <data name="lblTituloKilos.Text" xml:space="preserve">
+    <value>Kgs/Unidades</value>
+  </data>
+  <data name="lblTituloKilos.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;lblTituloKilos.Name" xml:space="preserve">
+    <value>lblTituloKilos</value>
+  </data>
+  <data name="&gt;&gt;lblTituloKilos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTituloKilos.Parent" xml:space="preserve">
+    <value>gbDeterminadoKg</value>
+  </data>
+  <data name="&gt;&gt;lblTituloKilos.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="gbDeterminadoKg.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 79</value>
+  </data>
+  <data name="gbDeterminadoKg.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="gbDeterminadoKg.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="gbDeterminadoKg.Size" type="System.Drawing.Size, System.Drawing">
+    <value>361, 94</value>
+  </data>
+  <data name="gbDeterminadoKg.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="gbDeterminadoKg.Text" xml:space="preserve">
+    <value>Precio por mayoria</value>
+  </data>
+  <data name="&gt;&gt;gbDeterminadoKg.Name" xml:space="preserve">
+    <value>gbDeterminadoKg</value>
+  </data>
+  <data name="&gt;&gt;gbDeterminadoKg.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbDeterminadoKg.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gbDeterminadoKg.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblTituloGanancia.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="lblTituloGanancia.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblTituloGanancia.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTituloGanancia.Location" type="System.Drawing.Point, System.Drawing">
+    <value>364, 18</value>
+  </data>
+  <data name="lblTituloGanancia.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblTituloGanancia.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 19</value>
+  </data>
+  <data name="lblTituloGanancia.TabIndex" type="System.Int32, mscorlib">
+    <value>108</value>
+  </data>
+  <data name="lblTituloGanancia.Text" xml:space="preserve">
+    <value>Ganancia ($)</value>
+  </data>
+  <data name="&gt;&gt;lblTituloGanancia.Name" xml:space="preserve">
+    <value>lblTituloGanancia</value>
+  </data>
+  <data name="&gt;&gt;lblTituloGanancia.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTituloGanancia.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblTituloGanancia.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="lblTituloMargen.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="lblTituloMargen.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblTituloMargen.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTituloMargen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>257, 18</value>
+  </data>
+  <data name="lblTituloMargen.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblTituloMargen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 19</value>
+  </data>
+  <data name="lblTituloMargen.TabIndex" type="System.Int32, mscorlib">
+    <value>107</value>
+  </data>
+  <data name="lblTituloMargen.Text" xml:space="preserve">
+    <value>Margen (%)</value>
+  </data>
+  <data name="&gt;&gt;lblTituloMargen.Name" xml:space="preserve">
+    <value>lblTituloMargen</value>
+  </data>
+  <data name="&gt;&gt;lblTituloMargen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTituloMargen.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblTituloMargen.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lblTituloVenta.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="lblTituloVenta.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblTituloVenta.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt, style=Bold</value>
+  </data>
+  <data name="lblTituloVenta.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTituloVenta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>143, 18</value>
+  </data>
+  <data name="lblTituloVenta.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblTituloVenta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 19</value>
+  </data>
+  <data name="lblTituloVenta.TabIndex" type="System.Int32, mscorlib">
+    <value>106</value>
+  </data>
+  <data name="lblTituloVenta.Text" xml:space="preserve">
+    <value>Precio Venta</value>
+  </data>
+  <data name="&gt;&gt;lblTituloVenta.Name" xml:space="preserve">
+    <value>lblTituloVenta</value>
+  </data>
+  <data name="&gt;&gt;lblTituloVenta.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTituloVenta.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblTituloVenta.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lblTituloCosto.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="lblTituloCosto.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblTituloCosto.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt, style=Bold</value>
+  </data>
+  <data name="lblTituloCosto.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTituloCosto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 18</value>
+  </data>
+  <data name="lblTituloCosto.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lblTituloCosto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 19</value>
+  </data>
+  <data name="lblTituloCosto.TabIndex" type="System.Int32, mscorlib">
+    <value>105</value>
+  </data>
+  <data name="lblTituloCosto.Text" xml:space="preserve">
+    <value>Precio Costo</value>
+  </data>
+  <data name="&gt;&gt;lblTituloCosto.Name" xml:space="preserve">
+    <value>lblTituloCosto</value>
+  </data>
+  <data name="&gt;&gt;lblTituloCosto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTituloCosto.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblTituloCosto.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="btLimpiar.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="btLimpiar.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btLimpiar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btLimpiar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>194, 180</value>
+  </data>
+  <data name="btLimpiar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 33</value>
+  </data>
+  <data name="btLimpiar.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btLimpiar.Text" xml:space="preserve">
+    <value>Limpiar</value>
+  </data>
+  <data name="&gt;&gt;btLimpiar.Name" xml:space="preserve">
+    <value>btLimpiar</value>
+  </data>
+  <data name="&gt;&gt;btLimpiar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btLimpiar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btLimpiar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtGanancia.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="txtGanancia.Location" type="System.Drawing.Point, System.Drawing">
+    <value>355, 41</value>
+  </data>
+  <data name="txtGanancia.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="txtGanancia.MaxLength" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="txtGanancia.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 27</value>
+  </data>
+  <data name="txtGanancia.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="txtGanancia.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtGanancia.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtGanancia.Name" xml:space="preserve">
+    <value>txtGanancia</value>
+  </data>
+  <data name="&gt;&gt;txtGanancia.Type" xml:space="preserve">
+    <value>ControlesMS.msTextBoxNumerico, ControlesMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtGanancia.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtGanancia.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txtMargen.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="txtMargen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 41</value>
+  </data>
+  <data name="txtMargen.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="txtMargen.MaxLength" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="txtMargen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 27</value>
+  </data>
+  <data name="txtMargen.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="txtMargen.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtMargen.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtMargen.Name" xml:space="preserve">
+    <value>txtMargen</value>
+  </data>
+  <data name="&gt;&gt;txtMargen.Type" xml:space="preserve">
+    <value>ControlesMS.msTextBoxNumerico, ControlesMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtMargen.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtMargen.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="txtVenta.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="txtVenta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>137, 41</value>
+  </data>
+  <data name="txtVenta.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="txtVenta.MaxLength" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="txtVenta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 27</value>
+  </data>
+  <data name="txtVenta.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="txtVenta.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtVenta.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtVenta.Name" xml:space="preserve">
+    <value>txtVenta</value>
+  </data>
+  <data name="&gt;&gt;txtVenta.Type" xml:space="preserve">
+    <value>ControlesMS.msTextBoxNumerico, ControlesMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtVenta.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtVenta.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="txtCosto.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="txtCosto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 41</value>
+  </data>
+  <data name="txtCosto.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="txtCosto.MaxLength" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="txtCosto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 27</value>
+  </data>
+  <data name="txtCosto.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txtCosto.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txtCosto.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;txtCosto.Name" xml:space="preserve">
+    <value>txtCosto</value>
+  </data>
+  <data name="&gt;&gt;txtCosto.Type" xml:space="preserve">
+    <value>ControlesMS.msTextBoxNumerico, ControlesMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtCosto.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtCosto.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 19</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>476, 216</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>msContolPrecios</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

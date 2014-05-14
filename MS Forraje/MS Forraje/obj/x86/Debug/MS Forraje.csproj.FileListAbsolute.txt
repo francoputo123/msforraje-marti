@@ -1,0 +1,30 @@
+c:\users\ariel\documents\visual studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\MS Forraje.exe
+c:\users\ariel\documents\visual studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\MS Forraje.pdb
+c:\users\ariel\documents\visual studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\MS_Forraje.Properties.Resources.resources
+c:\users\ariel\documents\visual studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\MS Forraje.exe
+c:\users\ariel\documents\visual studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\MS Forraje.pdb
+C:\Users\ARIEL\Documents\Visual Studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\ControlesMS.dll
+C:\Users\ARIEL\Documents\Visual Studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\ControlesMS.pdb
+C:\Users\ARIEL\documents\visual studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\MS Forraje.exe.config
+C:\Users\ARIEL\documents\visual studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\MS_Forraje.frmInicio.resources
+C:\Users\ARIEL\documents\visual studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\MS_Forraje.msProductos.resources
+C:\Users\ARIEL\Documents\Visual Studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\msClases.dll
+C:\Users\ARIEL\Documents\Visual Studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\msClases.pdb
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\MS Forraje.exe.config
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\MS Forraje.exe
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\MS Forraje.pdb
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\MS Forraje.exe
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\MS Forraje.pdb
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\ControlesMS.dll
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\msClases.dll
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\ControlesMS.pdb
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\bin\Debug\msClases.pdb
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\MS_Forraje.msProductos.resources
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\MS_Forraje.frmInicio.resources
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\MS_Forraje.Properties.Resources.resources
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documentos\Visual Studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ariel\Documents\Visual Studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ariel\Documents\Visual Studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ariel\Documents\Visual Studio 2010\Projects\MS Forraje\MS Forraje\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -27,3 +27,20 @@ C:\Users\ariel\Documents\Visual Studio 2010\Projects\MS Forraje\ControlesMS\bin\
 C:\Users\ariel\Documents\Visual Studio 2010\Projects\MS Forraje\ControlesMS\bin\Debug\CapaDatos.pdb
 C:\Users\ariel\Documents\Visual Studio 2010\Projects\MS Forraje\ControlesMS\obj\Debug\ControlesMS.Mascaras.msProductos.resources
 C:\Users\ariel\Documents\Visual Studio 2010\Projects\MS Forraje\ControlesMS\obj\Debug\ControlesMS.Properties.Resources.resources
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\bin\Debug\ControlesMS.dll
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\bin\Debug\ControlesMS.pdb
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\bin\Debug\CapaEntidad.dll
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\bin\Debug\CapaNegocio.dll
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\bin\Debug\CapaDatos.dll
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\bin\Debug\CapaEntidad.pdb
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\bin\Debug\CapaNegocio.pdb
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\bin\Debug\CapaDatos.pdb
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\obj\Debug\ControlesMS.csprojResolveAssemblyReference.cache
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\obj\Debug\ControlesMS.msContolPrecios.resources
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\obj\Debug\ControlesMS.msArticulo.resources
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\obj\Debug\ControlesMS.Mascaras.msProductos.resources
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\obj\Debug\ControlesMS.Properties.Resources.resources
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\obj\Debug\ControlesMS.msTextBoxNumerico.resources
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\obj\Debug\ControlesMS.csproj.GenerateResource.Cache
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\obj\Debug\ControlesMS.dll
+C:\Users\ariel\Documents\GitHub\msforraje-marti\MS Forraje\ControlesMS\obj\Debug\ControlesMS.pdb

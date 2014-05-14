@@ -138,8 +138,7 @@ namespace ControlesMS.Mascaras
             txtCodigo.ReadOnly = true;
             txtNombre.Text = this.produc.Nombre;
             txtStock.Valor = this.produc.Stock_Limite;
-            cmbMarca.SelectedValue = this.produc.Marca.Codigo;
-            cmbMarca.SelectedValue = 1;
+
         }
         void Limpiar()
         {
